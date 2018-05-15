@@ -1,6 +1,6 @@
 {
   "name": "tw-forex",
-  "version": "0.1.16",
+  "version": "0.1.6",
   "description": "Search foreign currency via interactive cli",
   "bin": {
     "tw-forex": "bin/index.js"
@@ -27,16 +27,14 @@
     "cfonts": "^1.1.3",
     "chalk": "^2.3.0",
     "cli-table2": "^0.2.0",
+    "fuzzy": "^0.1.3",
     "inquirer": "^4.0.1",
     "inquirer-autocomplete-prompt": "^0.12.2",
+    "lodash": "^4.17.10",
     "meow": "^4.0.0",
     "node-emoji": "^1.8.1",
     "opn": "^5.1.0",
-    "ora": "^1.3.0"
-  },
-  "devDependencies": {
-    "fuzzy": "^0.1.3",
-    "lodash": "^4.17.10",
+    "ora": "^1.3.0",
     "promise": "^8.0.1"
   }
 }

@@ -104,7 +104,7 @@ function logoShow() {
     font: 'block', 
     align: 'left', 
     colors: ['cyan'], 
-    background: 'Black', 
+    background: 'black', 
     letterSpacing: 1, 
     lineHeight: 1, 
     space: true,
