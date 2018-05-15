@@ -1,0 +1,42 @@
+{
+  "name": "tw-forex",
+  "version": "0.1.16",
+  "description": "Search foreign currency via interactive cli",
+  "bin": {
+    "tw-forex": "bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WeiChiaChang/tw-forex.git"
+  },
+  "keywords": [
+    "cli",
+    "tw-forex"
+  ],
+  "author": "WeiChiaChang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WeiChiaChang/tw-forex/issues"
+  },
+  "homepage": "https://github.com/WeiChiaChang/tw-forex#readme",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "cfonts": "^1.1.3",
+    "chalk": "^2.3.0",
+    "cli-table2": "^0.2.0",
+    "inquirer": "^4.0.1",
+    "inquirer-autocomplete-prompt": "^0.12.2",
+    "meow": "^4.0.0",
+    "node-emoji": "^1.8.1",
+    "opn": "^5.1.0",
+    "ora": "^1.3.0"
+  },
+  "devDependencies": {
+    "fuzzy": "^0.1.3",
+    "lodash": "^4.17.10",
+    "promise": "^8.0.1"
+  }
+}
