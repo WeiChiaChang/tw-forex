@@ -36,10 +36,17 @@ Search foreign currency via interactive cli
   $ tw-forex -o
 ```
 
-Here's the result:
+Here comes the overview:
 <p align="center">
-  <a target="_blank" href="https://github.com/WeiChiaChang/tw-forex-cli">
+  <a target="_blank" href="https://github.com/WeiChiaChang/tw-forex">
     <img alt="tw-forex" src="https://i.imgur.com/BN7lIW3.gif">
+  </a>
+</p>
+
+Search specified currency with `-s` parameter:
+<p align="center">
+  <a target="_blank" href="https://github.com/WeiChiaChang/tw-forex">
+    <img alt="tw-forex" src="https://i.imgur.com/nKaLMan.gif">
   </a>
 </p>
 
